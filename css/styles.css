@@ -1,0 +1,22 @@
+
+ul {
+  list-style: none;
+}
+
+hr {
+  border-bottom: 0;
+  margin: 15px 0;
+}
+
+input[type="checkbox"] { width: 30px; }
+
+.remove {
+  float: right;
+  cursor: pointer;
+}
+
+.completed { text-decoration: line-through; }
+
+
+
+
